@@ -1,6 +1,5 @@
 /*主程序*/
 #include "includes.h"
-
 int main()
 {
 	char ch = 'y';
